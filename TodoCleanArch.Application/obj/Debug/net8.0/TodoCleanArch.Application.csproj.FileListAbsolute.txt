@@ -1,0 +1,15 @@
+D:\Practice\TodoCleanArch\TodoCleanArch.Application\bin\Debug\net8.0\TodoCleanArch.Application.deps.json
+D:\Practice\TodoCleanArch\TodoCleanArch.Application\bin\Debug\net8.0\TodoCleanArch.Application.dll
+D:\Practice\TodoCleanArch\TodoCleanArch.Application\bin\Debug\net8.0\TodoCleanArch.Application.pdb
+D:\Practice\TodoCleanArch\TodoCleanArch.Application\bin\Debug\net8.0\TodoCleanArch.Domain.dll
+D:\Practice\TodoCleanArch\TodoCleanArch.Application\bin\Debug\net8.0\TodoCleanArch.Domain.pdb
+D:\Practice\TodoCleanArch\TodoCleanArch.Application\obj\Debug\net8.0\TodoCleanArch.Application.csproj.AssemblyReference.cache
+D:\Practice\TodoCleanArch\TodoCleanArch.Application\obj\Debug\net8.0\TodoCleanArch.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice\TodoCleanArch\TodoCleanArch.Application\obj\Debug\net8.0\TodoCleanArch.Application.AssemblyInfoInputs.cache
+D:\Practice\TodoCleanArch\TodoCleanArch.Application\obj\Debug\net8.0\TodoCleanArch.Application.AssemblyInfo.cs
+D:\Practice\TodoCleanArch\TodoCleanArch.Application\obj\Debug\net8.0\TodoCleanArch.Application.csproj.CoreCompileInputs.cache
+D:\Practice\TodoCleanArch\TodoCleanArch.Application\obj\Debug\net8.0\TodoClea.35D1BAC7.Up2Date
+D:\Practice\TodoCleanArch\TodoCleanArch.Application\obj\Debug\net8.0\TodoCleanArch.Application.dll
+D:\Practice\TodoCleanArch\TodoCleanArch.Application\obj\Debug\net8.0\refint\TodoCleanArch.Application.dll
+D:\Practice\TodoCleanArch\TodoCleanArch.Application\obj\Debug\net8.0\TodoCleanArch.Application.pdb
+D:\Practice\TodoCleanArch\TodoCleanArch.Application\obj\Debug\net8.0\ref\TodoCleanArch.Application.dll

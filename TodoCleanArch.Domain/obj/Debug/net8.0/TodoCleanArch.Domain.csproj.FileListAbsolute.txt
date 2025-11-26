@@ -1,0 +1,11 @@
+D:\Practice\TodoCleanArch\TodoCleanArch.Domain\bin\Debug\net8.0\TodoCleanArch.Domain.deps.json
+D:\Practice\TodoCleanArch\TodoCleanArch.Domain\bin\Debug\net8.0\TodoCleanArch.Domain.dll
+D:\Practice\TodoCleanArch\TodoCleanArch.Domain\bin\Debug\net8.0\TodoCleanArch.Domain.pdb
+D:\Practice\TodoCleanArch\TodoCleanArch.Domain\obj\Debug\net8.0\TodoCleanArch.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice\TodoCleanArch\TodoCleanArch.Domain\obj\Debug\net8.0\TodoCleanArch.Domain.AssemblyInfoInputs.cache
+D:\Practice\TodoCleanArch\TodoCleanArch.Domain\obj\Debug\net8.0\TodoCleanArch.Domain.AssemblyInfo.cs
+D:\Practice\TodoCleanArch\TodoCleanArch.Domain\obj\Debug\net8.0\TodoCleanArch.Domain.csproj.CoreCompileInputs.cache
+D:\Practice\TodoCleanArch\TodoCleanArch.Domain\obj\Debug\net8.0\TodoCleanArch.Domain.dll
+D:\Practice\TodoCleanArch\TodoCleanArch.Domain\obj\Debug\net8.0\refint\TodoCleanArch.Domain.dll
+D:\Practice\TodoCleanArch\TodoCleanArch.Domain\obj\Debug\net8.0\TodoCleanArch.Domain.pdb
+D:\Practice\TodoCleanArch\TodoCleanArch.Domain\obj\Debug\net8.0\ref\TodoCleanArch.Domain.dll
