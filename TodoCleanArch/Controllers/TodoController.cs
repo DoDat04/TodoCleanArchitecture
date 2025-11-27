@@ -53,6 +53,17 @@ namespace TodoCleanArch.API.Controllers
             return Ok(updatedTodo);
         }
 
+        [HttpPatch("toggle/{id:int}")]
+        public async Task<ActionResult<TodoDto>> ToggleTodoCompletionAsync(int id)
+        {
+            var toggledTodo = await _todoService.MarkTodoAsCompletedAsync(id);
+            if (toggledTodo is null)
+            {
+                return NotFound();
+            }
+            return Ok(toggledTodo);
+        }
+
         [HttpDelete("{id:int}")]
         public async Task<IActionResult> DeleteTodoAsync(int id)
         {

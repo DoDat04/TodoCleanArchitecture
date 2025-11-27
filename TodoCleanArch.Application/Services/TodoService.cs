@@ -84,6 +84,27 @@ namespace TodoCleanArch.Application.Services
             return todoDto;
         }
 
+        public async Task<TodoDto?> MarkTodoAsCompletedAsync(int id)
+        {
+            var existingTodo = await _unitOfWork.TodoItems.GetByIdAsync(id);
+            if (existingTodo == null)
+            {
+                return null;
+            }
+
+            existingTodo.IsCompleted = !existingTodo.IsCompleted;
+            _unitOfWork.TodoItems.Update(existingTodo);
+            await _unitOfWork.SaveAsync();
+            var todoDto = new TodoDto
+            {
+                Id = existingTodo.Id,
+                Title = existingTodo.Title,
+                IsCompleted = existingTodo.IsCompleted,
+                CreatedAt = existingTodo.CreatedAt
+            };
+            return todoDto;
+        }
+
         public async Task<TodoDto?> UpdateTodoAsync(int id, UpdateTodoDto updateTodoDto)
         {
             var existingTodo = await _unitOfWork.TodoItems.GetByIdAsync(id);

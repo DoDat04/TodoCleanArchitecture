@@ -148,3 +148,4 @@ D:\Practice\TodoCleanArch\TodoCleanArch\obj\Debug\net8.0\TodoCleanArch.API.pdb
 D:\Practice\TodoCleanArch\TodoCleanArch\obj\Debug\net8.0\TodoCleanArch.API.genruntimeconfig.cache
 D:\Practice\TodoCleanArch\TodoCleanArch\obj\Debug\net8.0\ref\TodoCleanArch.API.dll
 D:\Practice\TodoCleanArch\TodoCleanArch\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Practice\TodoCleanArch\TodoCleanArch\obj\Debug\net8.0\TodoCleanArch.API.sourcelink.json

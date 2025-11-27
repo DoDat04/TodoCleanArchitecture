@@ -118,5 +118,31 @@
       }
     ],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TodoCleanArch.API.Controllers.TodoController",
+    "Method": "ToggleTodoCompletionAsync",
+    "RelativePath": "api/Todo/toggle/{id}",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "TodoCleanArch.Application.DTOs.TodoDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
   }
 ]

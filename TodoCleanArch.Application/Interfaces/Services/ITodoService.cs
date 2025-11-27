@@ -14,5 +14,6 @@ namespace TodoCleanArch.Application.Interfaces.Services
         Task<TodoDto> CreateTodoAsync(CreateTodoDto createTodoDto);
         Task<TodoDto?> UpdateTodoAsync(int id, UpdateTodoDto updateTodoDto);
         Task<bool> DeleteTodoAsync(int id);
+        Task<TodoDto?> MarkTodoAsCompletedAsync(int id);
     }
 }

@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "D:\\Practice\\TodoCleanArch\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{516061AA-8FD0-48D5-AC43-8EDA2A5995F0}|TodoCleanArch.Application\\TodoCleanArch.Application.csproj|d:\\practice\\todocleanarch\\todocleanarch.application\\services\\todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{516061AA-8FD0-48D5-AC43-8EDA2A5995F0}|TodoCleanArch.Application\\TodoCleanArch.Application.csproj|solutionrelative:todocleanarch.application\\services\\todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E156118B-54D1-40E4-9589-1276EE6244CE}|TodoCleanArch\\TodoCleanArch.API.csproj|d:\\practice\\todocleanarch\\todocleanarch\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E156118B-54D1-40E4-9589-1276EE6244CE}|TodoCleanArch\\TodoCleanArch.API.csproj|solutionrelative:todocleanarch\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{516061AA-8FD0-48D5-AC43-8EDA2A5995F0}|TodoCleanArch.Application\\TodoCleanArch.Application.csproj|d:\\practice\\todocleanarch\\todocleanarch.application\\interfaces\\services\\itodoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{516061AA-8FD0-48D5-AC43-8EDA2A5995F0}|TodoCleanArch.Application\\TodoCleanArch.Application.csproj|solutionrelative:todocleanarch.application\\interfaces\\services\\itodoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{516061AA-8FD0-48D5-AC43-8EDA2A5995F0}|TodoCleanArch.Application\\TodoCleanArch.Application.csproj|d:\\practice\\todocleanarch\\todocleanarch.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,18 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{624B676F-9463-418F-982D-C4B1FD9B97CC}|TodoCleanArch.Infrastructure\\TodoCleanArch.Infrastructure.csproj|d:\\practice\\todocleanarch\\todocleanarch.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{624B676F-9463-418F-982D-C4B1FD9B97CC}|TodoCleanArch.Infrastructure\\TodoCleanArch.Infrastructure.csproj|solutionrelative:todocleanarch.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{516061AA-8FD0-48D5-AC43-8EDA2A5995F0}|TodoCleanArch.Application\\TodoCleanArch.Application.csproj|d:\\practice\\todocleanarch\\todocleanarch.application\\services\\todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{516061AA-8FD0-48D5-AC43-8EDA2A5995F0}|TodoCleanArch.Application\\TodoCleanArch.Application.csproj|solutionrelative:todocleanarch.application\\services\\todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{516061AA-8FD0-48D5-AC43-8EDA2A5995F0}|TodoCleanArch.Application\\TodoCleanArch.Application.csproj|d:\\practice\\todocleanarch\\todocleanarch.application\\dtos\\tododto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{516061AA-8FD0-48D5-AC43-8EDA2A5995F0}|TodoCleanArch.Application\\TodoCleanArch.Application.csproj|solutionrelative:todocleanarch.application\\dtos\\tododto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F88B3AF-26C0-4EF4-B5D5-CEFA888C189F}|TodoCleanArch.Domain\\TodoCleanArch.Domain.csproj|d:\\practice\\todocleanarch\\todocleanarch.domain\\entities\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F88B3AF-26C0-4EF4-B5D5-CEFA888C189F}|TodoCleanArch.Domain\\TodoCleanArch.Domain.csproj|solutionrelative:todocleanarch.domain\\entities\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,7 +54,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "ITodoService.cs",
+              "DocumentMoniker": "D:\\Practice\\TodoCleanArch\\TodoCleanArch.Application\\Interfaces\\Services\\ITodoService.cs",
+              "RelativeDocumentMoniker": "TodoCleanArch.Application\\Interfaces\\Services\\ITodoService.cs",
+              "ToolTip": "D:\\Practice\\TodoCleanArch\\TodoCleanArch.Application\\Interfaces\\Services\\ITodoService.cs",
+              "RelativeToolTip": "TodoCleanArch.Application\\Interfaces\\Services\\ITodoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T14:28:04.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "DependencyInjection.cs",
               "DocumentMoniker": "D:\\Practice\\TodoCleanArch\\TodoCleanArch.Application\\DependencyInjection.cs",
               "RelativeDocumentMoniker": "TodoCleanArch.Application\\DependencyInjection.cs",
@@ -66,12 +75,11 @@
               "RelativeToolTip": "TodoCleanArch.Application\\DependencyInjection.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T04:59:21.475Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-26T04:59:21.475Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "DependencyInjection.cs",
               "DocumentMoniker": "D:\\Practice\\TodoCleanArch\\TodoCleanArch.Infrastructure\\DependencyInjection.cs",
               "RelativeDocumentMoniker": "TodoCleanArch.Infrastructure\\DependencyInjection.cs",
@@ -79,57 +87,33 @@
               "RelativeToolTip": "TodoCleanArch.Infrastructure\\DependencyInjection.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwCEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T04:58:36.786Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-26T04:58:36.786Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "TodoController.cs",
               "DocumentMoniker": "D:\\Practice\\TodoCleanArch\\TodoCleanArch\\Controllers\\TodoController.cs",
               "RelativeDocumentMoniker": "TodoCleanArch\\Controllers\\TodoController.cs",
               "ToolTip": "D:\\Practice\\TodoCleanArch\\TodoCleanArch\\Controllers\\TodoController.cs",
               "RelativeToolTip": "TodoCleanArch\\Controllers\\TodoController.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAowEEAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowDMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-25T16:26:15.898Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "TodoItem.cs",
-              "DocumentMoniker": "D:\\Practice\\TodoCleanArch\\TodoCleanArch.Domain\\Entities\\TodoItem.cs",
-              "RelativeDocumentMoniker": "TodoCleanArch.Domain\\Entities\\TodoItem.cs",
-              "ToolTip": "D:\\Practice\\TodoCleanArch\\TodoCleanArch.Domain\\Entities\\TodoItem.cs",
-              "RelativeToolTip": "TodoCleanArch.Domain\\Entities\\TodoItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T16:06:34.396Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "TodoDto.cs",
-              "DocumentMoniker": "D:\\Practice\\TodoCleanArch\\TodoCleanArch.Application\\DTOs\\TodoDto.cs",
-              "RelativeDocumentMoniker": "TodoCleanArch.Application\\DTOs\\TodoDto.cs",
-              "ToolTip": "D:\\Practice\\TodoCleanArch\\TodoCleanArch.Application\\DTOs\\TodoDto.cs",
-              "RelativeToolTip": "TodoCleanArch.Application\\DTOs\\TodoDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T16:03:03.537Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "TodoService.cs",
               "DocumentMoniker": "D:\\Practice\\TodoCleanArch\\TodoCleanArch.Application\\Services\\TodoService.cs",
               "RelativeDocumentMoniker": "TodoCleanArch.Application\\Services\\TodoService.cs",
               "ToolTip": "D:\\Practice\\TodoCleanArch\\TodoCleanArch.Application\\Services\\TodoService.cs",
               "RelativeToolTip": "TodoCleanArch.Application\\Services\\TodoService.cs",
-              "ViewState": "AgIAAEQAAAAAAAAAAAAmwDUAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAADsAAAAAAAAAAAAmwFIAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T16:00:33.255Z"
+              "WhenOpened": "2025-11-25T16:00:33.255Z",
+              "EditorCaption": ""
             }
           ]
         }

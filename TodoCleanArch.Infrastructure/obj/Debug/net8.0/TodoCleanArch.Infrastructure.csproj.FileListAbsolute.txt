@@ -17,3 +17,4 @@ D:\Practice\TodoCleanArch\TodoCleanArch.Infrastructure\bin\Debug\net8.0\TodoClea
 D:\Practice\TodoCleanArch\TodoCleanArch.Infrastructure\bin\Debug\net8.0\TodoCleanArch.Application.pdb
 D:\Practice\TodoCleanArch\TodoCleanArch.Infrastructure\bin\Debug\net8.0\TodoCleanArch.Domain.pdb
 D:\Practice\TodoCleanArch\TodoCleanArch.Infrastructure\obj\Debug\net8.0\TodoClea.8565AA09.Up2Date
+D:\Practice\TodoCleanArch\TodoCleanArch.Infrastructure\obj\Debug\net8.0\TodoCleanArch.Infrastructure.sourcelink.json

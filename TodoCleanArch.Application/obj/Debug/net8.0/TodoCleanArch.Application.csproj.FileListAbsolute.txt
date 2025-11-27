@@ -13,3 +13,4 @@ D:\Practice\TodoCleanArch\TodoCleanArch.Application\obj\Debug\net8.0\TodoCleanAr
 D:\Practice\TodoCleanArch\TodoCleanArch.Application\obj\Debug\net8.0\refint\TodoCleanArch.Application.dll
 D:\Practice\TodoCleanArch\TodoCleanArch.Application\obj\Debug\net8.0\TodoCleanArch.Application.pdb
 D:\Practice\TodoCleanArch\TodoCleanArch.Application\obj\Debug\net8.0\ref\TodoCleanArch.Application.dll
+D:\Practice\TodoCleanArch\TodoCleanArch.Application\obj\Debug\net8.0\TodoCleanArch.Application.sourcelink.json
